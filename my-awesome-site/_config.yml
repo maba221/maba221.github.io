@@ -23,7 +23,7 @@ email: probica@proba.com
 description: >- # this means to ignore newlines until "baseurl:"
   ovdje probavam isprobavanje kako bih probao probaviti
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://maba221.github.io/my-awesome-site" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
